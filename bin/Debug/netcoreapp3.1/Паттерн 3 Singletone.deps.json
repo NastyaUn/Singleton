@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Паттерн 3 Singletone/1.0.0": {
+        "runtime": {
+          "Паттерн 3 Singletone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Паттерн 3 Singletone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

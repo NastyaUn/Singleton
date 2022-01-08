@@ -1,0 +1,13 @@
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\bin\Debug\netcoreapp3.1\Паттерн 3 Singletone.exe
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\bin\Debug\netcoreapp3.1\Паттерн 3 Singletone.deps.json
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\bin\Debug\netcoreapp3.1\Паттерн 3 Singletone.runtimeconfig.json
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\bin\Debug\netcoreapp3.1\Паттерн 3 Singletone.runtimeconfig.dev.json
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\bin\Debug\netcoreapp3.1\Паттерн 3 Singletone.dll
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\bin\Debug\netcoreapp3.1\Паттерн 3 Singletone.pdb
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\obj\Debug\netcoreapp3.1\Паттерн 3 Singletone.csprojAssemblyReference.cache
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\obj\Debug\netcoreapp3.1\Паттерн 3 Singletone.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\obj\Debug\netcoreapp3.1\Паттерн 3 Singletone.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\obj\Debug\netcoreapp3.1\Паттерн 3 Singletone.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\obj\Debug\netcoreapp3.1\Паттерн 3 Singletone.dll
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\obj\Debug\netcoreapp3.1\Паттерн 3 Singletone.pdb
+C:\Users\Пользователь\Documents\Новая папка\c#\Паттерн 3 Singletone\obj\Debug\netcoreapp3.1\Паттерн 3 Singletone.genruntimeconfig.cache
